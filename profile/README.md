@@ -1,3 +1,3 @@
 # KeYiMC
 
-We provide you some nice works around Minecraft.
+We provide you some nice work around Minecraft.
